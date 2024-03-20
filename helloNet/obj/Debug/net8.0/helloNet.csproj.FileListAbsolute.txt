@@ -1,0 +1,14 @@
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\bin\Debug\net8.0\helloNet.exe
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\bin\Debug\net8.0\helloNet.deps.json
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\bin\Debug\net8.0\helloNet.runtimeconfig.json
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\bin\Debug\net8.0\helloNet.dll
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\bin\Debug\net8.0\helloNet.pdb
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\helloNet.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\helloNet.AssemblyInfoInputs.cache
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\helloNet.AssemblyInfo.cs
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\helloNet.csproj.CoreCompileInputs.cache
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\helloNet.dll
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\refint\helloNet.dll
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\helloNet.pdb
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\helloNet.genruntimeconfig.cache
+c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\ref\helloNet.dll
