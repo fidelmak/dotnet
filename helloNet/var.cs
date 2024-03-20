@@ -26,3 +26,12 @@ Console.WriteLine("\nOutput Directory: \t");
 
 Console.WriteLine(@" c:\source\repos(this is where your code goes)");
 
+// concatenation of strings 
+
+string firstNam = "Bob";
+string greeting = "Hello";
+string messag = greeting + " " + firstNam + "!";
+Console.WriteLine(message);
+
+string mssage = $"{greeting} {firstName}!";
+Console.WriteLine(mssage);
