@@ -1,8 +1,22 @@
-﻿// class HelloCsharp
-// {
-// static void Main()
-// {
-//         System.Console.WriteLine("HelloWord and my people ");
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-// }
-// }
+
+namespace Csharp{
+
+
+class HelloCsharp
+{
+static void Main(string[] args)
+{
+        Console.WriteLine("Hello world ");
+
+}
+
+
+}
+
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\PAUL FIDELIS\\Desktop\\contents\\workspace\\dotnet\\helloNet\\helloNet.csproj": {}
+    "C:\\Users\\PAUL FIDELIS\\Desktop\\contents\\workspace\\dotnet\\helloNet\\helloNet.csproj": {}
   },
   "projects": {
-    "c:\\Users\\PAUL FIDELIS\\Desktop\\contents\\workspace\\dotnet\\helloNet\\helloNet.csproj": {
+    "C:\\Users\\PAUL FIDELIS\\Desktop\\contents\\workspace\\dotnet\\helloNet\\helloNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\PAUL FIDELIS\\Desktop\\contents\\workspace\\dotnet\\helloNet\\helloNet.csproj",
+        "projectUniqueName": "C:\\Users\\PAUL FIDELIS\\Desktop\\contents\\workspace\\dotnet\\helloNet\\helloNet.csproj",
         "projectName": "helloNet",
-        "projectPath": "c:\\Users\\PAUL FIDELIS\\Desktop\\contents\\workspace\\dotnet\\helloNet\\helloNet.csproj",
+        "projectPath": "C:\\Users\\PAUL FIDELIS\\Desktop\\contents\\workspace\\dotnet\\helloNet\\helloNet.csproj",
         "packagesPath": "C:\\Users\\PAUL FIDELIS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\PAUL FIDELIS\\Desktop\\contents\\workspace\\dotnet\\helloNet\\obj\\",
+        "outputPath": "C:\\Users\\PAUL FIDELIS\\Desktop\\contents\\workspace\\dotnet\\helloNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PAUL FIDELIS\\AppData\\Roaming\\NuGet\\NuGet.Config"

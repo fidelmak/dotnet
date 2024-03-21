@@ -12,3 +12,4 @@ c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.
 c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\helloNet.pdb
 c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\helloNet.genruntimeconfig.cache
 c:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\ref\helloNet.dll
+C:\Users\PAUL FIDELIS\Desktop\contents\workspace\dotnet\helloNet\obj\Debug\net8.0\helloNet.sourcelink.json
