@@ -36,3 +36,24 @@
 // string mssage = $"{greeting} {firstName}!";
 // Console.WriteLine(mssage);
 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace Sharp{
+
+
+class Csharp
+{
+static void Dain(string[] args)
+{      
+
+}
+
+
+}
+
+}
